@@ -255,4 +255,3 @@ cd Frontend
 npm run build
 npm start
 ```
-# Trip_Planer
